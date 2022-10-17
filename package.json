@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning NodeJS!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loathar/starter.git"
+  },
+  "author": "Tor Henning Egenes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loathar/starter/issues"
+  },
+  "homepage": "https://github.com/Loathar/starter#readme",
+  "dependencies": {
+    "slugify": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
