@@ -26,8 +26,8 @@ const tempProduct = fs.readFileSync(
 // console.log(textOut);
 // fs.writeFileSync("./txt/output.txt", textOut);
 // console.log("File has been written!");
-// fs.writeFileSync("./txt/hello.txt", "Hello World!");
-// console.log("File has been written!");
+fs.writeFileSync("./txt/hello.xt", "Hello World!");
+console.log("File has been written!");
 
 // Non-Blocking, Asynchronous way
 
